@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje de Leonardo Rosales on Bitácora de Viaje de Leonardo Rosales</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://leonardorosalesg.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://leonardorosalesg.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje en LaunchX</title>
+      <link>https://leonardorosalesg.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://leonardorosalesg.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola de nuevo. :) En esta ocasión enlistaré los conocimientos que he reforzado y aprendido hasta la fecha en el programa LaunchX de Inovacción Virtual:
+ Lógica de programación. Python. Jupyter Notebook Git Github Html Css Js Vue Angular  ¡Estoy seguro que aún me falta más por aprender y eso es emocionante! :D</description>
+    </item>
+    
     <item>
       <title>About me</title>
       <link>https://leonardorosalesg.github.io/my_launchx_blog/pages/about/</link>
