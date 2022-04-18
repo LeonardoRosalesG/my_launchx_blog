@@ -1,10 +1,10 @@
 ---
 title: "Mi ruta de aprendizaje en LaunchX"
 date: 2022-04-18
-description: 'Te contaré lo que h aprendido hast ahora en el programa LaunchX'
+description: 'Te contaré lo que he aprendido hasta ahora en el programa LaunchX'
 ---
 
-Hola de nuevo. :)
+Hola de nuevo. :)\
 En esta ocasión enlistaré los conocimientos que he reforzado y aprendido hasta la fecha en el programa LaunchX de Inovacción Virtual:
 - Lógica de programación.
 - Python.
